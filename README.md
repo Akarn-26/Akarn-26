@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Karn</h1>
+<h1 align="center">Hi!, I'm Alok Karn</h1>
 <h3 align="center">I am passionate about AI, machine learning and competitive coding;</h3>
 
 - 🔭 I’m currently working on Kaggle Projects **Advanced Regression: House Prices Prediction**
