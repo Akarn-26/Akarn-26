@@ -1,13 +1,14 @@
 <h1 align="center">Hi!, I'm Alok Karn</h1>
-<h3 align="center">I am passionate about AI, machine learning and competitive coding;</h3>
+<h3 align="center">I am passionate about AI, machine learning and CP;</h3>
 
-- 🔭 I’m currently working on Kaggle Projects **Advanced Regression: House Prices Prediction**
+- 🔭 I’m currently working on Kaggle Projects **RAG and sentence_transformers**
 
 - 🌱 I’m currently learning **Tensorflow. Mainly using neural networks for the predictions**
 
 - 💬 Ask me about **DSA;**
 
-- 📫 How to reach me **akkarn26@gmail.com**
+- 📫 How to reach me:
+-  email me at**akkarn26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
