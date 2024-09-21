@@ -8,7 +8,7 @@
 - 💬 Ask me about **DSA;**
 
 - 📫 How to reach me:
--  email me at**akkarn26@gmail.com**
+-  email me at **akkarn26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
