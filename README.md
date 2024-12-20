@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow. Mainly using neural networks for the predictions**
 
-- 💬 Ask me about **DSA;**
+- 💬 Ask me on **Python**
 
 - 📫 How to reach me:
 -  email me at **akkarn26@gmail.com**
